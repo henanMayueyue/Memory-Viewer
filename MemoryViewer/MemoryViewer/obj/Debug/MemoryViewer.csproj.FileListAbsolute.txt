@@ -1,0 +1,10 @@
+C:\Users\_Ian_\Desktop\MemoryViewer\MemoryViewer\bin\Debug\MemoryViewer.exe.config
+C:\Users\_Ian_\Desktop\MemoryViewer\MemoryViewer\bin\Debug\MemoryViewer.exe
+C:\Users\_Ian_\Desktop\MemoryViewer\MemoryViewer\bin\Debug\MemoryViewer.pdb
+C:\Users\_Ian_\Desktop\MemoryViewer\MemoryViewer\obj\Debug\MemoryViewer.csprojResolveAssemblyReference.cache
+C:\Users\_Ian_\Desktop\MemoryViewer\MemoryViewer\obj\Debug\MemoryViewer.Properties.Resources.resources
+C:\Users\_Ian_\Desktop\MemoryViewer\MemoryViewer\obj\Debug\MemoryViewer.csproj.GenerateResource.Cache
+C:\Users\_Ian_\Desktop\MemoryViewer\MemoryViewer\obj\Debug\MemoryViewer.exe
+C:\Users\_Ian_\Desktop\MemoryViewer\MemoryViewer\obj\Debug\MemoryViewer.pdb
+C:\Users\_Ian_\Desktop\MemoryViewer\MemoryViewer\obj\Debug\MemoryViewer.Form1.resources
+I:\____-_2015 Projects_\00.MemoryViewer\MemoryViewer\bin\Debug\MemoryViewer.exe.config
