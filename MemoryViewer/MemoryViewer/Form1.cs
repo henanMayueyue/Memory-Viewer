@@ -19,6 +19,9 @@ namespace MemoryViewer
             byteviewer.Anchor = AnchorStyles.Left | AnchorStyles.Bottom | AnchorStyles.Top;
             byteviewer.SetBytes(new byte[] { });
             this.Controls.Add(byteviewer);
+            MaximizeBox = false;
+            MinimizeBox = false;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void InitializeForm()
